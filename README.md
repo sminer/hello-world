@@ -1,4 +1,4 @@
 # hello-world
 Hello!
 
-Excited to learn more about programming here - looking forward to learning some new skills!
+This is the real master, or it will be soon. Hope this is readable...
